@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+
+# Environment secrets
+.env
+
+# Test & cache
+.pytest_cache/
+.vibecheck/
+*.png
+data/extract/*
+!data/extract/.gitkeep
+data/transform/*
+!data/transform/.gitkeep
