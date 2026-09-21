@@ -2,6 +2,9 @@
 
 A sophisticated multi-agent system for intelligent data processing and analysis using LangGraph. This project demonstrates a complete implementation of an agentic architecture with specialized sub-agents for SQL operations and ETL workflows.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/214bfc66-5be6-43a2-bf18-edcf7b7d6b8f" />
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
